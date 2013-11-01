@@ -1,0 +1,12 @@
+newest:
+  sessions:
+    default:
+      database: hackernews_developemnt
+      hosts:
+        - localhost:27017
+best:
+  sessions:
+    default:
+      database: hackernews_best
+      hosts:
+        - localhost:27017
